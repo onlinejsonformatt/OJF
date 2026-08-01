@@ -1,14 +1,14 @@
-# Online JSON Formatt — The Privacy-First Developer Toolkit
+# Online JSON Formatt - The Privacy-First Developer Toolkit
 
 **Live site:** [https://www.onlinejsonformatt.org](https://www.onlinejsonformatt.org)
 
-A free, browser-based suite of 17+ JSON, XML, and data tools — powered by AI, built on privacy, available in 6 languages.
+A free, browser-based suite of 17+ JSON, XML, and data tools - powered by AI, built on privacy, available in 6 languages.
 
 ---
 
 ## What Is Online JSON Formatt?
 
-Online JSON Formatt (OJF) is a developer-focused platform that provides formatting, validation, repair, comparison, conversion, and visualization tools for structured data — all running 100% in your browser.
+Online JSON Formatt (OJF) is a developer-focused platform that provides formatting, validation, repair, comparison, conversion, and visualization tools for structured data - all running 100% in your browser.
 
 Unlike traditional online tools that send your data to a server for processing, OJF processes everything client-side. Your JSON, XML, and Parquet files never leave your machine.
 
@@ -62,16 +62,16 @@ Unlike traditional online tools that send your data to a server for processing, 
 Every tool runs **100% in your browser**. No data upload, no server processing, no telemetry on your input. Safe for API keys, tokens, PII, and proprietary data.
 
 ### 2. AI-Powered Repair
-The Fix JSON tool uses a **7-layer repair engine** that automatically fixes broken JSON — trailing commas, unquoted keys, single quotes, unclosed brackets, and more. No other free tool offers this depth of automated repair.
+The Fix JSON tool uses a **7-layer repair engine** that automatically fixes broken JSON - trailing commas, unquoted keys, single quotes, unclosed brackets, and more. No other free tool offers this depth of automated repair.
 
 ### 3. Professional Editor
-Built on **Monaco Editor** (the same engine as VS Code) — code folding, multi-cursor, regex find/replace, inline error highlighting, and syntax awareness that textarea-based tools can't match.
+Built on **Monaco Editor** (the same engine as VS Code) - code folding, multi-cursor, regex find/replace, inline error highlighting, and syntax awareness that textarea-based tools can't match.
 
 ### 4. Multilingual
-Full interface in **6 languages**: English, French, Spanish, German, Russian, and Dutch. Not just translated buttons — full SEO content, FAQs, and documentation in each language.
+Full interface in **6 languages**: English, French, Spanish, German, Russian, and Dutch. Not just translated buttons - full SEO content, FAQs, and documentation in each language.
 
 ### 5. Comprehensive Suite
-17+ tools in one place. Format, validate, repair, compare, convert, visualize — without juggling between different sites for each operation.
+17+ tools in one place. Format, validate, repair, compare, convert, visualize - without juggling between different sites for each operation.
 
 ### 6. No Friction
 No signup, no account, no API key, no rate limits. Open a tool and use it. Free forever.
@@ -95,12 +95,12 @@ No signup, no account, no API key, no rate limits. Open a tool and use it. Free 
 
 ## Who Uses This
 
-- **Backend developers** — API debugging, payload validation, JSON repair from flaky endpoints
-- **Frontend developers** — Formatting API responses, filtering nested data, config editing
-- **Data engineers** — Parquet viewing, format conversion (JSON ↔ CSV ↔ XML), pipeline debugging
-- **DevOps engineers** — Config comparison, minification for deployments, schema validation
-- **QA engineers** — Test data comparison, expected-vs-actual JSON diffing
-- **Students** — Learning JSON structure, data format exploration, coursework tools
+- **Backend developers** - API debugging, payload validation, JSON repair from flaky endpoints
+- **Frontend developers** - Formatting API responses, filtering nested data, config editing
+- **Data engineers** - Parquet viewing, format conversion (JSON ↔ CSV ↔ XML), pipeline debugging
+- **DevOps engineers** - Config comparison, minification for deployments, schema validation
+- **QA engineers** - Test data comparison, expected-vs-actual JSON diffing
+- **Students** - Learning JSON structure, data format exploration, coursework tools
 
 ---
 
@@ -120,7 +120,7 @@ The [blog](../blogs/README.md) publishes tutorials and guides including:
 1. Visit [onlinejsonformatt.org](https://www.onlinejsonformatt.org)
 2. Pick a tool from the homepage grid
 3. Paste or drag-drop your data
-4. Get instant results — no signup required
+4. Get instant results - no signup required
 
 ---
 
